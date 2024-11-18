@@ -17,7 +17,7 @@ Eigen Portfolios leverages **Principal Component Analysis (PCA)** to create opti
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashutosh035/eigen-portfolios.git
+   git clone https://github.com/ashutosh035/eigen_portfolio_optimization.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -72,10 +72,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Screenshots and GIFs
 
 ### Sharpe Ratio vs Return
-![Sharpe Ratio vs Return](sharpe_vs_return.jpeg)
+![Sharpe Ratio vs Return](sharpe_vs_return.jpg)
 
 ### Portfolio Weights Distribution
-![Portfolio Weights Distribution](portfolio_weights.jpeg)
+![Portfolio Weights Distribution](portfolio_weights.jpg)
 
 ## Documentation
 
